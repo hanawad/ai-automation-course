@@ -1,494 +1,313 @@
-### From AI User to AI Automation Solution Engineer
+# 🚀 AI Automation Portfolio
 
-**Think. Design. Build. Test. Improve.**
-
-كورس عملي لتصميم وبناء حلول الأتمتة المدعومة بالذكاء الاصطناعي، باستخدام أدوات AI Automation وNo-Code/Low-Code وAI App Builders.
-
-الهدف ليس مجرد تعلّم استخدام الأدوات، بل تعلّم كيفية تحويل المشكلات الواقعية واحتياجات الأعمال إلى حلول عملية، واضحة، قابلة للاختبار والتحسين.
+A professional portfolio documenting my journey in designing, building, testing, and improving AI-powered solutions.
+AI Automation | AI-Powered Solutions | Workflow Automation | AI Agents
 
 ---
 
-## 01. About the Course | عن الكورس
+## 👩‍💻 About Me
 
-أصبحت أدوات الذكاء الاصطناعي قادرة على المساعدة في تحليل البيانات، ومعالجة المعلومات، وتوليد المحتوى، واتخاذ قرارات ضمن حدود محددة، والتفاعل مع التطبيقات والأنظمة الأخرى.
+Hi, I'm **Data Science & AI Engineer**.
+I am a **Data Science & AI Engineer | AI Systems & Automation Specialist** interested in building AI-powered solutions that solve real-world problems and create meaningful impact.
+Through this portfolio, I document the systems and solutions I design and build throughout my AI Automation journey.
 
-لكن امتلاك هذه الأدوات لا يعني بالضرورة القدرة على بناء حل متكامل.
-
-فالحل الحقيقي يحتاج إلى أكثر من اختيار أداة وربطها بأخرى. يحتاج إلى فهم المشكلة، وتحليل العمل، وتصميم النظام، وتحديد دور الذكاء الاصطناعي، وإدارة تدفق البيانات، واختبار النتائج، ومعالجة الحالات غير المتوقعة.
-
-من هنا يأتي هذا الكورس.
-
-خلال رحلة تعليمية مدتها **40 ساعة تدريبية**، ستتعلم كيف تفكر كمهندس حلول AI Automation، وكيف تستخدم الأدوات المناسبة لبناء حلول تخدم احتياجات حقيقية.
-
-لن تكون الأدوات هي نقطة البداية، بل ستكون وسيلتك لتنفيذ تصميم هندسي واضح.
-
-> **Don't just use AI. Learn to engineer solutions with AI.**
+### My Focus
+* AI Automation & Agentic Workflows
+* AI-Powered Solutions & Multimodal RAG Systems
+* Event-Driven Systems & Data Pipelines
+* Real-Time Stream Processing & Vector Search
+* AI Agents & Autonomous Navigation Systems
+* Human-Centered Technology & Cultural Preservation
 
 ---
 
-## 02. Course Goal | هدف الكورس
+## 💼 Connect With Me
 
-الانتقال من استخدام أدوات الذكاء الاصطناعي إلى القدرة على تصميم وبناء **AI Automation Solutions** و**AI-Powered Business Applications**.
-
-ستتعلم كيف تحوّل احتياجًا أو مشكلة إلى حل عملي من خلال:
-
-- فهم المشكلة واحتياجات المستخدم أو العمل.
-- تحليل العمليات والبيانات.
-- تصميم النظام وتحديد مكوناته.
-- اختيار الآلية المناسبة لتنفيذ كل مهمة.
-- توظيف AI عند الحاجة، دون استخدامه في كل شيء.
-- ربط الأدوات والتطبيقات ضمن Workflow متكامل.
-- اختبار الحل والتحقق من جودة مخرجاته.
-- تحسين موثوقية الحل والتعامل مع الحالات الاستثنائية.
-- شرح قرارات التصميم وتبريرها.
-
-**النتيجة المستهدفة:** أن تصبح قادرًا على التفكير في الحل، وتصميمه، وبنائه، واختباره، وتفسير طريقة عمله، بدلًا من الاكتفاء باستخدام أدوات منفصلة.
+* 🐙 **GitHub:** [GitHub Profile](https://github.com/)
+* 💼 **LinkedIn:** [LinkedIn Profile](https://linkedin.com/)
+* 📧 **Email:** [Contact Email](mailto:contact@example.com)
 
 ---
 
-## 03. Who Is This Course For? | لمن صُمّم الكورس؟
+## 🧠 My Engineering Philosophy
 
-صُمّم هذا الكورس لطلاب وخريجي تخصصات تكنولوجيا المعلومات، وللمهتمين بتطوير قدراتهم العملية في الذكاء الاصطناعي والأتمتة.
+> *"We don't teach AI to build everything for us.*
+> *We learn to understand, design, direct, evaluate, and improve what AI builds."*
 
-وهو مناسب لمن يريد:
-
-- الانتقال من استخدام AI إلى بناء حلول تعتمد عليه.
-- أتمتة المهام والعمليات المتكررة.
-- تطوير تطبيقات وحلول أعمال باستخدام أدوات No-Code/Low-Code.
-- ربط التطبيقات والخدمات ضمن أنظمة عملية.
-- بناء حلول يمكن تطويرها وتقديمها للشركات والعملاء.
-- اكتساب عقلية هندسية تساعده على التعامل مع مشكلات جديدة، حتى عند تغيّر الأدوات.
-
-لا يقتصر التعلم على اتباع خطوات جاهزة؛ بل يركّز على فهم أسباب اختيار الحل، وكيفية تقييمه، ومتى يحتاج إلى التعديل.
+My approach throughout this portfolio is:
+**Understand → Design → Build → Debug → Explain → Improve**
 
 ---
 
-## 04. Learning Outcomes | مخرجات التعلم
+## 🎯 Portfolio Overview
 
-بنهاية الكورس، ستكون قادرًا على:
+This repository contains the projects I developed throughout the AI Automation Course.
+The projects demonstrate my progression from understanding real-world work to designing and building AI-powered systems.
 
-### Understand
-- تحليل المشكلات وتحديد احتياجات العمل والمستخدم.
-- فهم العمليات والمهام والبيانات.
-- التمييز بين المشكلات التي تحتاج إلى AI وتلك التي يمكن حلها بقواعد واضحة.
-
-### Design
-- تحويل المتطلبات إلى تصميم واضح للحل.
-- تحديد مكونات النظام وتدفق البيانات.
-- تصميم Workflows وآليات اتخاذ القرار.
-- تحديد حدود الأتمتة والحالات التي تحتاج إلى تدخل بشري.
-
-### Build
-- استخدام أدوات AI Automation لبناء حلول عملية.
-- ربط التطبيقات والخدمات.
-- بناء تطبيقات مدعومة بالذكاء الاصطناعي باستخدام الأدوات المناسبة.
-- تحويل التصميم إلى نظام قابل للتشغيل.
-
-### Test & Improve
-- اختبار سلوك النظام ومخرجاته.
-- اكتشاف الأخطاء وتحليل أسبابها.
-- التحقق من جودة النتائج وموثوقيتها.
-- تحسين التصميم والتنفيذ بناءً على نتائج الاختبار.
-
-### Explain & Evaluate
-- شرح كيفية عمل الحل.
-- تبرير قرارات التصميم واختيار الأدوات.
-- تقييم حدود الحل ومخاطره.
-- تحديد ما يحتاج إلى تحسين قبل استخدام الحل في بيئة حقيقية.
+| Unit | Capability | Projects | Status |
+| :--- | :--- | :---: | :---: |
+| **U1** | Process & Data Thinking | 2 Projects | ⬜ |
+| **U2** | AI-Powered Solution Building | 2 Projects | ⬜ |
+| **U3** | Quality Thinking | 2 Projects | ⬜ |
+| **U4** | Knowledge Grounding | 2 Projects | ⬜ |
+| **U5** | Agent & Decision Thinking | 2 Projects | ⬜ |
+| **U6** | Integration Thinking | 2 Projects | ⬜ |
+| **U7** | Reliability Thinking | 2 Projects | ⬜ |
+| **U8** | Solution Engineering | 2 Projects | ⬜ |
 
 ---
 
-## 05. The Learning Journey | رحلة التعلم
+## ⭐ Featured Projects
 
-يتبع الكورس مسارًا هندسيًا متدرجًا:
+### ⭐ Project 01 — Multimodal RAG Pipeline & Intelligent Retrieval
 
-**Understand → Design → Build → Debug → Evaluate → Explain → Teach**
+* **What it solves:** Extracts, processes, and queries contextually rich information from unstructured document sources (PDFs, CSVs, scanned invoices) with hybrid vector search.
+* **Tools:** FastAPI, Streamlit, PyMuPDF, OpenRouter Vision LLMs, FAISS, PyTorch.
+* **My role:** Designed the document parsing pipeline, embedded vector representations, and built interactive API endpoints for precise contextual retrieval.
 
-يمثل كل جزء قدرة تحتاج إليها لبناء حلول عملية:
+### ⭐ Project 02 — Real-Time Streaming & Event-Driven Intelligence Pipeline
 
-| المرحلة | ما الذي تتعلمه؟ |
-|---|---|
-| Understand | فهم المشكلة والعمل والبيانات. |
-| Design | تحويل الاحتياجات إلى تصميم واضح. |
-| Build | تنفيذ التصميم باستخدام الأدوات المناسبة. |
-| Debug | اكتشاف الأخطاء وتحليل أسبابها. |
-| Evaluate | التحقق من الجودة والنتائج والحدود. |
-| Explain | شرح الحل وتبرير قراراته. |
-| Teach | نقل المعرفة وشرح طريقة التفكير للآخرين. |
+* **What it solves:** Ingests high-throughput real-time event streams, applies distributed transformation logic, and persists analytical outputs to relational data stores.
+* **Tools:** Apache Kafka, PyFlink, Docker Compose, PostgreSQL, Python.
+* **My role:** Architected containerized event producers/consumers, configured stream transformations in PyFlink, and optimized database schema operations.
 
-لن تتعلم هذه المراحل باعتبارها معلومات نظرية منفصلة، بل ستطبقها تدريجيًا خلال التحديات والمشاريع والأنشطة العملية.
+### ⭐ Project 03 — Hybrid OEM Equipment Matching Service
+
+* **What it solves:** Combines semantic vector similarity search with structured metadata rules to score and match industrial equipment parts accurately.
+* **Tools:** Express.js, PostgreSQL, pgvector, Node.js, REST APIs.
+* **My role:** Implemented the hybrid weighted scoring algorithm, authored vector search queries, and exposed scalable REST endpoints.
 
 ---
 
-## 06. Course Structure | هيكل الكورس
-
-يتكون الكورس من **8 وحدات تدريبية، مدة كل وحدة 5 ساعات، بإجمالي 40 ساعة تدريبية**.
-
-تغطي كل وحدة قدرة هندسية أساسية، وتبني على ما تعلمته في الوحدات السابقة.
+## 🧩 My Projects
 
 ### U1 — UNDERSTAND THE WORK
-**Process + Data**
 
-التفكير في العمليات والبيانات.
+#### Capability
+**Process & Data Thinking**
+I learned how to understand real-world work, decompose processes, identify inputs, design AI-powered decisions, and turn the solution into an automation.
 
-تتعلم كيف تفهم المشكلة قبل أتمتتها، وتحلل العمل إلى مهام، وتحدد البيانات المطلوبة، وتصمم القرارات الأساسية، ثم تنفذ Automation باستخدام Zapier.
+#### Projects
+* **01 — [Course Project Name]**
+  * Type: Guided Project
+  * 🔗 View Project
+* **02 — [Independent Project Name]**
+  * Type: Independent Project
+  * 🔗 View Project
 
-**السؤال المحوري:**
-كيف نفهم العمل ونحدد ما يستحق الأتمتة قبل اختيار الأداة؟
+---
 
 ### U2 — BUILD THE SYSTEM
-**System**
 
-بناء النظام.
+#### Capability
+**AI-Powered Solution Building**
+I learned how to transform a problem into a system and use AI-powered tools to design and build an AI-powered application.
 
-تنتقل من التفكير في خطوات منفصلة إلى فهم الحل بوصفه نظامًا يتكوّن من مكونات مترابطة، لكل منها دور واضح ومدخلات ومخرجات.
+#### Projects
+* **01 — [Course Project Name]**
+  * Type: Guided Project
+  * 🔗 View Project
+* **02 — [Independent Project Name]**
+  * Type: Independent Project
+  * 🔗 View Project
 
-**السؤال المحوري:**
-كيف نحوّل التصميم إلى نظام متكامل بدلًا من مجموعة خطوات منفصلة؟
+---
 
 ### U3 — PROVE IT WORKS
-**Quality**
 
-إثبات جودة الحل.
+#### Capability
+**Quality Thinking**
+I learned how to test AI-powered systems, identify failures, evaluate outputs, and improve solution quality.
 
-تتعلم كيف تتحقق من أن الحل يعمل كما هو متوقع، وكيف تختبر المخرجات، وتكتشف الأخطاء، وتقيّم جودة النتائج بدلًا من افتراض أن نجاح التنفيذ يعني نجاح الحل.
+#### Projects
+* **01 — [Course Project Name]**
+  * Type: Guided Project
+  * 🔗 View Project
+* **02 — [Independent Project Name]**
+  * Type: Independent Project
+  * 🔗 View Project
 
-**السؤال المحوري:**
-كيف نعرف أن الحل يعمل بصورة صحيحة ويحقق النتيجة المطلوبة؟
+---
 
 ### U4 — GROUND ITS KNOWLEDGE
-**Knowledge**
 
-بناء حلول تعتمد على المعرفة.
+#### Capability
+**Knowledge & Context Thinking**
+I learned how AI systems can work with external knowledge and how to design solutions that use relevant, controlled information.
 
-تتعلم كيف تجعل الحل يستند إلى مصادر المعرفة المناسبة، وكيف تنظّم المعرفة وتستخدمها للإجابة عن الأسئلة ضمن سياق محدد.
+#### Projects
+* **01 — AI Knowledge Assistant**
+  * Type: Guided Project
+  * 🔗 View Project
+* **02 — [Independent Project Name]**
+  * Type: Independent Project
+  * 🔗 View Project
 
-**المشروع الأساسي:**
-AI Knowledge Assistant
-
-**السؤال المحوري:**
-كيف نبني مساعدًا ذكيًا يستند إلى معرفة محددة بدلًا من الاعتماد على إجابات غير موثقة؟
+---
 
 ### U5 — CONTROL ITS AGENCY
-**Agency**
 
-التحكم في قدرة AI على اتخاذ الخطوات واستخدام الأدوات.
+#### Capability
+**Agent & Decision Thinking**
+I learned when an Agent is appropriate, how AI can make decisions, and how to keep autonomous behavior controlled.
 
-تتعلم التفكير في AI Agents، وتحديد متى تكون الحاجة إلى Agent مبررة، وكيف تضبط صلاحياته وحدود قراراته، وتحافظ على التحكم في سلوكه.
+#### Projects
+* **01 — [Course Project Name]**
+  * Type: Guided Project
+  * 🔗 View Project
+* **02 — [Independent Project Name]**
+  * Type: Independent Project
+  * 🔗 View Project
 
-**السؤال المحوري:**
-متى يحتاج النظام إلى Agent، وكيف نمنحه القدرة على التصرف دون فقدان السيطرة؟
+---
 
 ### U6 — CONNECT IT TO THE WORLD
-**Integration**
 
-ربط الحلول بالأنظمة الخارجية.
+#### Capability
+**Integration Thinking**
+I learned how AI-powered systems communicate with external applications, services, APIs, and data sources.
 
-تتعلم كيف تتكامل التطبيقات والخدمات والواجهات البرمجية، وكيف تنتقل البيانات بين الأنظمة لتصبح الحلول أكثر اتصالًا بالبيئة التي تعمل فيها.
+#### Projects
+* **01 — [Course Project Name]**
+  * Type: Guided Project
+  * 🔗 View Project
+* **02 — [Independent Project Name]**
+  * Type: Independent Project
+  * 🔗 View Project
 
-**السؤال المحوري:**
-كيف نجعل الحل يتفاعل مع التطبيقات والخدمات والأنظمة الخارجية؟
+---
 
 ### U7 — MAKE IT RELIABLE
-**Reliability**
 
-بناء حلول أكثر موثوقية.
+#### Capability
+**Reliability Thinking**
+I learned how to design AI-powered systems that handle errors, unexpected inputs, failures, and operational risks.
 
-تتعلم كيف تتعامل مع الأخطاء والحالات الاستثنائية، وتفكر في استمرارية التشغيل، والتعافي من الفشل، ومراقبة سلوك النظام، وتقليل المخاطر التشغيلية.
+#### Projects
+* **01 — [Course Project Name]**
+  * Type: Guided Project
+  * 🔗 View Project
+* **02 — [Independent Project Name]**
+  * Type: Independent Project
+  * 🔗 View Project
 
-**السؤال المحوري:**
-كيف نجعل الحل أكثر قدرة على التعامل مع المشكلات والاستمرار في العمل بصورة موثوقة؟
+---
 
 ### U8 — ENGINEER THE RIGHT SOLUTION
+
+#### Capability
 **Solution Engineering**
+I learned how to choose the right solution for a real-world problem by considering the problem, users, constraints, AI capabilities, automation, reliability, and impact.
 
-هندسة الحل المناسب.
-
-تجمع ما تعلمته في الوحدات السابقة لتحديد الحل الأنسب لمشكلة متكاملة، مع مراعاة المتطلبات والقيود والجودة والموثوقية والتكلفة والتعقيد.
-
-**السؤال المحوري:**
-كيف نختار ونصمم ونبني الحل المناسب للمشكلة، بدلًا من استخدام الأدوات لمجرد توفرها؟
-
----
-
-## 07. Learning Method | منهجية التدريب
-
-يعتمد الكورس على التعلم بالممارسة والتفكير الهندسي.
-
-لن يكون التدريب قائمًا على مشاهدة الشرح فقط، بل على المشاركة في تحليل المشكلات، واتخاذ القرارات، وبناء الحلول، واختبارها.
-
-### Opening Challenges
-تبدأ بعض الموضوعات بتحديات عملية تدفعك إلى التفكير في المشكلة قبل تقديم الإطار النظري الكامل.
-
-### Concept Debrief
-نناقش ما اكتشفته خلال التحدي، ونربط أفكارك بالمفاهيم الهندسية التي تساعدك على تنظيم تفكيرك.
-
-### Guided Practice
-تطبّق المفاهيم مع المدرّبة من خلال أمثلة ومشاريع عملية.
-
-### Independent Application
-تعمل على مشكلة مختلفة لتختبر قدرتك على استخدام المفاهيم بصورة مستقلة.
-
-### Research Pair
-تتعاون مع زميل في البحث عن موضوع مرتبط بـAI Automation، وفهم استخداماته وحدوده، وربطه بحالات عملية.
-
-### Research Pitch
-تشارك خلاصة بحثك في عرض قصير، وتناقش الأفكار والأسئلة مع بقية المتدربين.
-
-### Projects
-تطبّق ما تتعلمه على مشاريع تساعدك على الانتقال من فهم المفاهيم إلى بناء حلول فعلية.
+#### Projects
+* **01 — [Course Project Name]**
+  * Type: Guided Project
+  * 🔗 View Project
+* **02 — [Independent Project Name]**
+  * Type: Independent Project
+  * 🔗 View Project
 
 ---
 
-## 08. Learning Environment | بيئة التعلم
+## 🛠️ Technical Toolkit
 
-يعتمد الكورس على بيئة تعلم تجمع بين بناء الحلول، وتوثيق العمل الهندسي، ومناقشة الأفكار والتعاون بين المتدربين.
+Tools and technologies I work with:
 
-نستخدم **GitHub** و**Discord** لتحقيق هدفين متكاملين، مع دور واضح لكل منصة.
-
-### GitHub — Build & Document
-
-GitHub هو المساحة الأساسية للمحتوى التعليمي والعمل الهندسي.
-
-ستستخدمه من أجل:
-
-- الوصول إلى ملفات الوحدات والمفاهيم الأساسية.
-- متابعة تعليمات التحديات والمشاريع.
-- تنظيم ملفات المشاريع وتوثيق مراحل بنائها.
-- توثيق المتطلبات وقرارات التصميم.
-- حفظ نتائج الاختبارات والتحسينات.
-- الرجوع إلى العمل السابق وتطويره خلال الكورس.
-
-**المبدأ:**
-
-> Build it, document it, and make your work understandable.
-
-لا يكفي أن تبني حلًا يعمل؛ بل يجب أن تكون قادرًا على توضيح ما بنيته، وكيف يعمل، ولماذا صممته بهذه الطريقة.
-
-### Discord — Discuss & Collaborate
-
-Discord هو مساحة التواصل والتعلم التعاوني بين المتدربين والمدرّبة.
-
-ستستخدمه من أجل:
-
-- مناقشة المفاهيم والأسئلة المرتبطة بالوحدات.
-- التعاون ضمن مجموعات Research Pair.
-- تبادل الأفكار وتحليل الحلول ومناقشة حدودها.
-- طرح الأسئلة والحصول على التغذية الراجعة.
-- مشاركة المعرفة والتعلم من تجارب الآخرين.
-
-**المبدأ:**
-
-> Share your thinking, challenge ideas, and learn from others.
-
-لا يقتصر النقاش على مشاركة الإجابات، بل يشمل توضيح أسبابها، والاستماع إلى وجهات نظر مختلفة، وتقييم الأفكار بصورة نقدية.
-
-### How They Work Together
-**كيف تتكامل المنصتان؟**
-
-لكل منصة دور محدد ضمن رحلة التعلم:
-
-**GitHub → Build & Document → Discord → Discuss & Improve**
-
-- يُوثَّق العمل الهندسي وملفات المشاريع على GitHub.
-- تُناقش الأفكار والأسئلة وقرارات التصميم على Discord.
-- تُعاد النتائج والقرارات التي تستحق التوثيق إلى ملفات المشروع على GitHub.
-
-بهذا لا نكرر العمل على المنصتين، بل نستخدم كل واحدة لتحقيق غرض مختلف ومتكامل.
-
-> **GitHub is where you build and document your work. Discord is where you discuss ideas and learn together.**
+* **AI, RAG & Agents:** LLMs, Multimodal RAG, FAISS, PyTorch, TensorFlow, OpenRouter Vision LLMs, LangChain concepts.
+* **Workflow & Automation:** Zapier, Google Apps Script, Webhooks, REST APIs.
+* **Data & Streaming Engineering:** Apache Kafka, Apache Flink (PyFlink), PostgreSQL, pgvector, SQLite, dbt.
+* **Backend & App Building:** FastAPI, Express.js, Streamlit, Docker, Docker Compose, Lovable, Supabase.
+* **Languages & Development:** Python, SQL, JavaScript (Node.js), C++, Git, GitHub, Linux/WSL2.
 
 ---
 
-## 09. Projects & Research | المشاريع والبحث
+## 📈 My Learning Journey
 
-المشاريع جزء أساسي من رحلة التعلم؛ لأنها تساعدك على تطبيق المفاهيم في سياقات عملية، وتمنحك فرصة لاتخاذ قرارات هندسية بدلًا من الاكتفاء باتباع تعليمات جاهزة.
+My progression throughout the course:
 
-خلال الكورس، ستعمل على أنشطة ومشاريع تتدرج في مستوى التفكير والتصميم والتنفيذ.
-
-ستتعلّم كيف:
-
-- تحلل احتياجات المشروع.
-- تحدد متطلباته.
-- تصمم البيانات والـWorkflow.
-- تحدد دور الذكاء الاصطناعي.
-- تنفذ الحل بالأدوات المناسبة.
-- تختبر النتائج وتعالج الأخطاء.
-- توثّق العمل وتشرح القرارات الهندسية.
-
-### Research Pair
-
-ستعمل مع زميل على موضوع بحثي مرتبط بالكورس.
-
-لا يقتصر الهدف على جمع المعلومات، بل يشمل فهم التقنية أو المفهوم، وتحليل استخداماته، والتعرف إلى حدوده، وتقديم خلاصة مفيدة لبقية المتدربين.
-
-تُستخدم Discord للمناقشة وتبادل الأفكار، ويمكن توثيق النتائج التي تحتاج إلى الاحتفاظ بها ضمن ملفات GitHub المناسبة.
+```text
+U1: Understand the Work
+        ↓
+U2: Build the System
+        ↓
+U3: Prove It Works
+        ↓
+U4: Ground Its Knowledge
+        ↓
+U5: Control Its Agency
+        ↓
+U6: Connect It to the World
+        ↓
+U7: Make It Reliable
+        ↓
+U8: Engineer the Right Solution
 
 ---
 
-## 10. NOVA — The Cumulative Project
+# 💡 Key Lessons
 
-**NOVA** هو المشروع التراكمي الذي سيرافقك خلال الوحدات الثماني.
+Throughout the course, I learned that building with AI is not simply about generating outputs.
 
-لن يكون مجرد مشروع نهائي تبدأه في نهاية الكورس، بل رحلة متدرجة توظّف فيها ما تتعلمه في كل وحدة لتطوير الحل بصورة مستمرة.
+It is about:
 
-مع تقدمك في الكورس، ستستخدم قدراتك المكتسبة في:
+- Understanding the real problem
+- Designing before building
+- Choosing the right level of automation
+- Knowing where AI should and should not be used
+- Controlling AI behavior
+- Testing assumptions
+- Handling failure
+- Connecting systems
+- Evaluating results
+- Improving continuously
 
-- تحليل المشكلة وفهم البيانات.
-- تصميم النظام ومكوناته.
-- اختبار الجودة والتحقق من النتائج.
-- تنظيم المعرفة واستخدامها.
-- تحديد حدود قدرة AI على التصرف.
-- ربط الحل بالأنظمة الخارجية.
-- تحسين الموثوقية والتعامل مع الحالات الاستثنائية.
-- تقييم الحل واختيار التصميم المناسب.
+### My Most Important Lesson
 
-ستتطور قدرتك على اتخاذ القرارات الهندسية مع تطور المشروع.
-
-**The goal is not just to finish a project. The goal is to engineer a solution.**
-
----
-
-## 11. Using AI During the Course | استخدام الذكاء الاصطناعي
-
-الذكاء الاصطناعي جزء من الأدوات التي ستتعلم توظيفها، ويمكن أن يساعدك أيضًا أثناء التعلم.
-
-لكن استخدامه لا يعني تفويض التفكير بالكامل إليه.
-
-يمكنك استخدام AI للمساعدة في:
-
-- فهم المفاهيم الصعبة.
-- استكشاف البدائل.
-- تحليل المشكلات.
-- مراجعة التصميم.
-- اقتراح حالات اختبار.
-- تحليل الأخطاء.
-- تحسين التوثيق.
-- مقارنة الحلول الممكنة.
-
-عند استخدامه، تحمّل مسؤولية التحقق من المعلومات والنتائج.
-
-انتبه إلى:
-
-- **Hallucinations:** قد ينتج AI معلومات غير صحيحة.
-- **Bias:** قد تتأثر النتائج بالتحيزات.
-- **Privacy:** لا تشارك بيانات حساسة دون إذن مناسب.
-- **Security:** لا تمنح الأنظمة صلاحيات غير ضرورية.
-- **Verification:** تحقّق من النتائج قبل الاعتماد عليها.
-
-المهم ليس فقط أن تحصل على إجابة، بل أن تفهمها وتقيّمها وتقرر ما إذا كانت مناسبة للمشكلة.
-
-> **Use AI to improve your thinking, not to replace it.**
+> **[Write your own most important lesson from the course.]**
 
 ---
 
-## 12. Tools & Technologies | الأدوات والتقنيات
+# 🚀 Beyond the Course
 
-ستستخدم خلال الكورس الأدوات المناسبة لكل قدرة هندسية ومهمة عملية.
+This repository will continue to grow beyond the course.
 
-تشمل مجالات الأدوات:
+Future projects, experiments, and AI-powered solutions will be added here as I continue developing my skills.
 
-- **AI Tools:** للمساعدة في التحليل والمعالجة وتوليد المخرجات.
-- **AI Automation Platforms:** لبناء Workflows وأتمتة المهام.
-- **No-Code / Low-Code Tools:** لبناء الحلول دون الحاجة إلى كتابة كل شيء يدويًا.
-- **AI App Builders:** لبناء تطبيقات مدعومة بالذكاء الاصطناعي.
-- **APIs & Integrations:** لربط التطبيقات والخدمات.
-- **Data & Knowledge Tools:** لتنظيم البيانات والمعرفة واستخدامها.
-- **Testing & Evaluation Tools:** للتحقق من جودة الحلول.
-- **GitHub:** لإدارة ملفات المشاريع وتوثيق العمل.
-- **Discord:** للنقاش والتعاون والتعلم من الأقران.
+### Future Projects
 
-لن يكون الهدف إتقان أكبر عدد ممكن من الأدوات، بل تعلم كيفية اختيار الأداة المناسبة للمشكلة، وفهم حدودها، وتوظيفها ضمن تصميم واضح.
-
-قد تختلف الأدوات المستخدمة من وحدة إلى أخرى بحسب أهداف التعلم وطبيعة المشروع.
+- [Project]
+- [Project]
+- [Project]
 
 ---
 
-## 13. Engineering Mindset | العقلية الهندسية
+# 📊 Portfolio Status
 
-خلال الكورس، ستتدرّب على تغيير طريقة تعاملك مع المشكلات.
-
-بدلًا من السؤال:
-
-**Which Tool Should I Use?**
-
-ابدأ بالأسئلة التالية:
-
-- What problem am I solving?
-- Who needs this solution?
-- How does the work happen today?
-- What data does the system need?
-- What should the system do?
-- Where should AI be used?
-- What happens when something goes wrong?
-- How will I test the solution?
-- How will I know that it works?
-- What should I improve?
-
-هذه الأسئلة ليست مرتبطة بأداة محددة، ولذلك ستبقى مفيدة حتى عندما تتغير الأدوات والتقنيات.
-
-هدفنا أن تتعلم طريقة تفكير تستطيع استخدامها في مشكلات جديدة، لا أن تحفظ خطوات تنفيذ مشروع واحد فقط.
-
----
-
-## 14. What We Expect From You | ما المتوقع منك؟
-
-لتحقق أقصى استفادة من الكورس:
-
-- شارك في التحديات والأنشطة العملية.
-- حاول التفكير في المشكلة قبل طلب الحل.
-- اسأل عندما لا تفهم مفهومًا أو قرارًا هندسيًا.
-- ناقش أفكارك مع زملائك باحترام.
-- لا تكتفِ بنسخ الحلول؛ حاول فهمها وتفسيرها.
-- اختبر ما تبنيه بدلًا من افتراض أنه يعمل.
-- وثّق قراراتك ونتائجك على GitHub.
-- استخدم Discord للنقاش والتعاون وطلب المساعدة.
-- تقبّل الأخطاء بوصفها فرصًا لفهم النظام وتحسينه.
-- كن مستعدًا لشرح ما بنيته ولماذا اخترت هذا التصميم.
-
-ليس مطلوبًا أن تعرف كل شيء مسبقًا، لكن المطلوب أن تشارك بفاعلية، وتفكر بصورة نقدية، وتتحمل مسؤولية فهم الحلول التي تبنيها.
-
----
-
-## 15. Course Structure at a Glance | ملخص الكورس
-
-| العنصر | التفاصيل |
+| Area | Progress |
 |---|---|
-| اسم الكورس | Nadia AI Automation |
-| المدة | 40 ساعة تدريبية |
-| عدد الوحدات | 8 وحدات |
-| مدة الوحدة | 5 ساعات |
-| المنهجية | Challenges, Guided Practice, Independent Application, Research & Projects |
-| منصة التوثيق والعمل | GitHub |
-| منصة النقاش والتعاون | Discord |
-| المشروع التراكمي | NOVA |
-| الهدف النهائي | Design, Build, Test & Improve AI Automation Solutions |
+| Process & Data | ⬜ |
+| System Building | ⬜ |
+| Quality | ⬜ |
+| Knowledge | ⬜ |
+| Agency | ⬜ |
+| Integration | ⬜ |
+| Reliability | ⬜ |
+| Solution Engineering | ⬜ |
 
 ---
 
-## 16. Start Here | ابدأ من هنا
+# 📜 About This Repository
 
-لبدء رحلتك في الكورس:
+This repository was developed as part of my journey through an **AI Automation Course**.
 
-1. اقرأ ملف README الخاص بكل وحدة لفهم أهدافها ومفاهيمها الأساسية.
-2. اتبع تعليمات التحدي عندما يحين وقت تنفيذه.
-3. شارك في النقاشات والأنشطة العملية.
-4. نفّذ المشاريع وفق مراحل العمل المحددة.
-5. وثّق عملك وقراراتك ونتائج الاختبارات على GitHub.
-6. استخدم Discord لطرح الأسئلة ومناقشة الأفكار والتعاون مع زملائك.
-7. ارجع إلى ملفات المشروع كلما احتجت إلى مراجعة قرار أو تحسين الحل.
-8. تابع تطوير مشروع NOVA عبر الوحدات الثماني.
-
-**ابدأ بفهم المشكلة، ثم انتقل إلى التصميم، وبعدها ابنِ الحل واختبره.**
+The projects are presented as documented engineering work, including the problem, solution, tools, design decisions, implementation, testing, evidence, and lessons learned.
 
 ---
 
-## Our Core Principle | مبدأ الكورس
+## 👩‍💻 Author
 
-> **Think First. Build with Purpose. Test What You Build.**
+** Haneen Awad **
 
-لسنا هنا لنتعلم استخدام الأدوات فحسب، بل لنتعلم كيف نحوّل المشكلات والاحتياجات إلى حلول عملية باستخدام الذكاء الاصطناعي والأتمتة.
+AI Automation | AI-Powered Solutions | Human-Centered Innovation
 
-الأداة تتغير، وقد تتغير طريقة التنفيذ، لكن القدرة على فهم المشكلة وتصميم الحل وتقييمه تظل أساس العمل الهندسي.
-
-**Understand the problem. Engineer the solution. Create real value.**
+[LinkedIn] · [GitHub] · [Portfolio]
