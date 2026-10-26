@@ -7,8 +7,7 @@ AI Automation | AI-Powered Solutions | Workflow Automation | AI Agents
 
 ## 👩‍💻 About Me
 
-Hi, I'm **Data Science & AI Engineer**.
-I am a **Data Science & AI Engineer | AI Systems & Automation Specialist** interested in building AI-powered solutions that solve real-world problems and create meaningful impact.
+Hi, I'm a **Data Science & AI Engineer | AI Systems & Automation Specialist** interested in building AI-powered solutions that solve real-world problems and create meaningful impact.
 Through this portfolio, I document the systems and solutions I design and build throughout my AI Automation journey.
 
 ### My Focus
