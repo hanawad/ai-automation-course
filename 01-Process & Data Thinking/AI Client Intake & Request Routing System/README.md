@@ -77,8 +77,7 @@ Client ──► Google Forms ──► Trigger ──► Unstructured Request
 
 ### 1. هيكلية الأتمتة الكاملة (Full Automation Flow)
 
-> *(ضع لقطة الشاشة الخاصة بسلسلة الأتمتة الكاملة هنا)*
-> `![Automation Workflow](path/to/workflow-screenshot.png)`
+![AI Client Intake & Request Routing System](./AI%20Client%20Intake%20%26%20Request%20Routing%20-%20draft.png)
 
 ### 2. معالجة واستخراج البيانات عبر AI (AI Extraction Output & Step)
 
